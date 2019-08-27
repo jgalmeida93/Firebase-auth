@@ -1,4 +1,4 @@
-var firebaseConfig = {
+const firebaseConfig = {
   apiKey: "AIzaSyA9S5qDTxbBFzguVpLVnXlzchnrYsyde6U",
   authDomain: "entendaantes.firebaseapp.com",
   databaseURL: "https://entendaantes.firebaseio.com",
